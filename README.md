@@ -18,3 +18,5 @@
 ```python
 python gd_killer.py
 ```
+
+【【python抢购脚本】基于DrissionPage且无需添加购物车】 https://www.bilibili.com/video/BV1SWmFYVEmK/?share_source=copy_web&vd_source=d34abe3786a6b85ecc07875a85795885
