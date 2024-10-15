@@ -10,7 +10,7 @@ kill_time = "2024-10-15 22:03:00.00000000"
 # 这里填写商品链接
 page.get("https://item.taobao.com/item.htm?id=535571681850&pisk=gRWjpPVoNHYPZJhV9REyOpNttHp_YNwEhctOxGHqXKpxWVIpzArD35v15U_MuIJAC_D1xGX4mdrDnivMByzULNscmdYc8xMRhQpJYgH9XAeEhlWzxyzULRNx2dab8ZS60ccJAHp9DCdveutwcAKOWCHR2UxMXqKtHusJrUHvWELve8KeXjKOWnL-eH-HDfH9M0HJjUKvBCHxOFiBfSTccuf9u-vrq-sXPAHOF3UMRiNZC3WJc-8CcUaLBTMHGeIvPAUUubUwkHBLzjxBGNORUGoEQpjAtNxdkqU6STsRH6QTRX8RXMf9NOgY0wQR1NKlZPG6R1IVtTRrXjpPv6_MyQ0jddWf2t-l5DhVmCCPnBX4yx9dtiJV6wUrgECBXg8iLeGMLfwpUAtW8uZSsffcYAlQS5L-rIKkcQr7VqCMM3xW8uZSsfAvqnt7VugAs&priceTId=2150408f17290008171965334e94e8&skuId=4614843324558&spm=a21bo.jianhua%2Fa.201876.d7.5af92a89lcO21M&utparam=%7B%22aplus_abtest%22%3A%22ece4fc8b197238c0d65ccc7b636cc294%22%7D&xxc=ad_ct")
 
-# 用于定位购买按钮的文字根据，实际情况修改，可以是购买、立即购买、领券购买等等
+# 用于定位购买按钮的文字根据，实际情况修改，可以是立即购买、领券购买等等
 buy = "立即购买"
 
 # 用于定位提交订单的文字
