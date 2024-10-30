@@ -1,8 +1,8 @@
-from DrissionPage import ChromiumPage
+from DrissionPage import Chromium
 import datetime
 
 # 创建对象并指定端口
-page = ChromiumPage(9226)
+page = Chromium(9226).latest_tab
 
 # 指定秒杀时间
 kill_time = "2024-10-15 22:03:00.00000000"
